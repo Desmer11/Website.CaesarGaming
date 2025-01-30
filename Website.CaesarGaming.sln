@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34009.444
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Website.CaesarGaming", "Website.CaesarGaming\Website.CaesarGaming.fsproj", "{24BD0160-64C0-4C97-B578-52C400BFC8C0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{24BD0160-64C0-4C97-B578-52C400BFC8C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24BD0160-64C0-4C97-B578-52C400BFC8C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24BD0160-64C0-4C97-B578-52C400BFC8C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24BD0160-64C0-4C97-B578-52C400BFC8C0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B29CCA51-80D0-4BE3-8E47-C70903144764}
+	EndGlobalSection
+EndGlobal
