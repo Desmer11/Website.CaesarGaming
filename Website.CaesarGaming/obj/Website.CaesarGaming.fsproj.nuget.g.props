@@ -12,9 +12,20 @@
   <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <SourceRoot Include="C:\Users\Jsn\.nuget\packages\" />
   </ItemGroup>
+  <ItemGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Content Include="$(NuGetPackageRoot)fable.core\4.3.0\contentFiles\any\netstandard2.0\CHANGELOG.md" Condition="Exists('$(NuGetPackageRoot)fable.core\4.3.0\contentFiles\any\netstandard2.0\CHANGELOG.md')">
+      <NuGetPackageId>Fable.Core</NuGetPackageId>
+      <NuGetPackageVersion>4.3.0</NuGetPackageVersion>
+      <NuGetItemType>Content</NuGetItemType>
+      <Pack>false</Pack>
+      <Private>False</Private>
+      <Link>CHANGELOG.md</Link>
+    </Content>
+  </ItemGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">C:\Users\Jsn\.nuget\packages\microsoft.codeanalysis.analyzers\3.3.2</PkgMicrosoft_CodeAnalysis_Analyzers>
     <PkgMicrosoft_AspNetCore_Mvc_Razor_RuntimeCompilation Condition=" '$(PkgMicrosoft_AspNetCore_Mvc_Razor_RuntimeCompilation)' == '' ">C:\Users\Jsn\.nuget\packages\microsoft.aspnetcore.mvc.razor.runtimecompilation\7.0.10</PkgMicrosoft_AspNetCore_Mvc_Razor_RuntimeCompilation>
     <PkgFSharp_Core Condition=" '$(PkgFSharp_Core)' == '' ">C:\Users\Jsn\.nuget\packages\fsharp.core\7.0.400</PkgFSharp_Core>
+    <PkgFable_Core Condition=" '$(PkgFable_Core)' == '' ">C:\Users\Jsn\.nuget\packages\fable.core\4.3.0</PkgFable_Core>
   </PropertyGroup>
 </Project>

@@ -303,6 +303,7 @@ C:\Users\Jsn\source\repos\Projects\Website.CaesarGaming\Website.CaesarGaming\bin
 C:\Users\Jsn\source\repos\Projects\Website.CaesarGaming\Website.CaesarGaming\bin\Debug\net7.0\refs\System.Xml.XPath.dll
 C:\Users\Jsn\source\repos\Projects\Website.CaesarGaming\Website.CaesarGaming\bin\Debug\net7.0\refs\System.Xml.XPath.XDocument.dll
 C:\Users\Jsn\source\repos\Projects\Website.CaesarGaming\Website.CaesarGaming\bin\Debug\net7.0\refs\WindowsBase.dll
+C:\Users\Jsn\source\repos\Projects\Website.CaesarGaming\Website.CaesarGaming\bin\Debug\net7.0\Fable.Core.dll
 C:\Users\Jsn\source\repos\Projects\Website.CaesarGaming\Website.CaesarGaming\bin\Debug\net7.0\FSharp.Core.dll
 C:\Users\Jsn\source\repos\Projects\Website.CaesarGaming\Website.CaesarGaming\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
 C:\Users\Jsn\source\repos\Projects\Website.CaesarGaming\Website.CaesarGaming\bin\Debug\net7.0\Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation.dll

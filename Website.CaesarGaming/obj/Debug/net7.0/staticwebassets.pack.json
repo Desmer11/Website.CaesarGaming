@@ -5,6 +5,10 @@
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
+      "Id": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\css\\videos.css",
+      "PackagePath": "staticwebassets\\css\\videos.css"
+    },
+    {
       "Id": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
@@ -251,6 +255,14 @@
     {
       "Id": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\media\\Screenshot (504).png",
       "PackagePath": "staticwebassets\\media\\Screenshot (504).png"
+    },
+    {
+      "Id": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\media\\Videos\\Video1.mp4",
+      "PackagePath": "staticwebassets\\media\\Videos\\Video1.mp4"
+    },
+    {
+      "Id": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\media\\Videos\\Video2.mp4",
+      "PackagePath": "staticwebassets\\media\\Videos\\Video2.mp4"
     },
     {
       "Id": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\media\\X_logo_2023_(white).png",

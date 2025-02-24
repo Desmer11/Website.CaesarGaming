@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "HjqvLcUMIWeXMi7tJM4rm1m7NiEmafD6xRKeYkC6sznctGxoALOZmRsvWxx62wQSlfk+jAkhfPq2RzWd2qCOgQ==",
+  "dgSpecHash": "ECIEQJSulNa+uM++VIPwwshbejjvzWSsMbnZzTsFYG0A5SxImtiAMjvq2hv6XVvrrQEPNkQD2wmXy1GYkJdUMQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\Website.CaesarGaming.fsproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Jsn\\.nuget\\packages\\fable.core\\4.3.0\\fable.core.4.3.0.nupkg.sha512",
     "C:\\Users\\Jsn\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512",
     "C:\\Users\\Jsn\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\6.0.0\\microsoft.aspnetcore.mvc.razor.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\Jsn\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.runtimecompilation\\7.0.10\\microsoft.aspnetcore.mvc.razor.runtimecompilation.7.0.10.nupkg.sha512",

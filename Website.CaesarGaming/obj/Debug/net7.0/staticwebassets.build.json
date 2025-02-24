@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "950KrDUDBh2bPZuJhcKoBCnqGNlhJ4qIdmmWzPMT3Fc=",
+  "Hash": "YqscK2Ug6og4PopFAqJnAbJKCAPW3iEL8WOtYn5EQnI=",
   "Source": "Website.CaesarGaming",
   "BasePath": "_content/Website.CaesarGaming",
   "Mode": "Default",
@@ -32,6 +32,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\css\\videos.css",
+      "SourceId": "Website.CaesarGaming",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\",
+      "BasePath": "_content/Website.CaesarGaming",
+      "RelativePath": "css/videos.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\videos.css"
     },
     {
       "Identity": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\favicon.ico",
@@ -1222,6 +1239,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\media\\Screenshot (504).png"
+    },
+    {
+      "Identity": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\media\\Videos\\Video1.mp4",
+      "SourceId": "Website.CaesarGaming",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\",
+      "BasePath": "_content/Website.CaesarGaming",
+      "RelativePath": "media/Videos/Video1.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\Videos\\Video1.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\media\\Videos\\Video2.mp4",
+      "SourceId": "Website.CaesarGaming",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\",
+      "BasePath": "_content/Website.CaesarGaming",
+      "RelativePath": "media/Videos/Video2.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\Videos\\Video2.mp4"
     },
     {
       "Identity": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\media\\X_logo_2023_(white).png",

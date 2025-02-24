@@ -2,6 +2,26 @@
   "version": 3,
   "targets": {
     "net7.0": {
+      "Fable.Core/4.3.0": {
+        "type": "package",
+        "compile": {
+          "lib/netstandard2.0/Fable.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "runtime": {
+          "lib/netstandard2.0/Fable.Core.dll": {
+            "related": ".xml"
+          }
+        },
+        "contentFiles": {
+          "contentFiles/any/netstandard2.0/CHANGELOG.md": {
+            "buildAction": "Content",
+            "codeLanguage": "any",
+            "copyToOutput": false
+          }
+        }
+      },
       "FSharp.Core/7.0.400": {
         "type": "package",
         "compile": {
@@ -391,6 +411,24 @@
     }
   },
   "libraries": {
+    "Fable.Core/4.3.0": {
+      "sha512": "sbK+hYs7H7I3b3sbgttI4GlvQfNPcIqSz1qPSagF3QbVA46KJ/pWSXC/Dwv0s9M6AeRGmoqcIeD7GUaLn41zkA==",
+      "type": "package",
+      "path": "fable.core/4.3.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "LICENSE",
+        "README.md",
+        "content/CHANGELOG.md",
+        "contentFiles/any/netstandard2.0/CHANGELOG.md",
+        "fable.core.4.3.0.nupkg.sha512",
+        "fable.core.nuspec",
+        "fable_logo.png",
+        "lib/netstandard2.0/Fable.Core.dll",
+        "lib/netstandard2.0/Fable.Core.xml"
+      ]
+    },
     "FSharp.Core/7.0.400": {
       "sha512": "kJQ7TBQqd1d2VoODSgwFSAaApaBN0Fuu8mZt2XExmd3UzUxLjUsMn5Y5XhpsUWdnxOL8amp7VFg7cwhPllR4Qw==",
       "type": "package",
@@ -1020,6 +1058,7 @@
   "projectFileDependencyGroups": {
     "net7.0": [
       "FSharp.Core >= 7.0.400",
+      "Fable.Core >= 4.3.0",
       "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation >= 7.0.10"
     ]
   },
@@ -1062,6 +1101,11 @@
             "include": "Runtime, Compile, Build, Native, Analyzers, BuildTransitive",
             "target": "Package",
             "version": "[7.0.400, )",
+            "generatePathProperty": true
+          },
+          "Fable.Core": {
+            "target": "Package",
+            "version": "[4.3.0, )",
             "generatePathProperty": true
           },
           "Microsoft.AspNetCore.Mvc.Razor.RuntimeCompilation": {
