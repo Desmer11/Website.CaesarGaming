@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "YqscK2Ug6og4PopFAqJnAbJKCAPW3iEL8WOtYn5EQnI=",
+  "Hash": "o6WsphFjt/XYNogevFBq6CL71Tii+zuUIIXSQHpdoTY=",
   "Source": "Website.CaesarGaming",
   "BasePath": "_content/Website.CaesarGaming",
   "Mode": "Default",
@@ -16,6 +16,23 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\css\\layout.css",
+      "SourceId": "Website.CaesarGaming",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\",
+      "BasePath": "_content/Website.CaesarGaming",
+      "RelativePath": "css/layout.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\layout.css"
+    },
     {
       "Identity": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\css\\site.css",
       "SourceId": "Website.CaesarGaming",
@@ -66,6 +83,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\js\\layout.js",
+      "SourceId": "Website.CaesarGaming",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\",
+      "BasePath": "_content/Website.CaesarGaming",
+      "RelativePath": "js/layout.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\layout.js"
     },
     {
       "Identity": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\js\\site.js",
@@ -1239,6 +1273,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\media\\Screenshot (504).png"
+    },
+    {
+      "Identity": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\media\\Video1.mp4",
+      "SourceId": "Website.CaesarGaming",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\",
+      "BasePath": "_content/Website.CaesarGaming",
+      "RelativePath": "media/Video1.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\Video1.mp4"
+    },
+    {
+      "Identity": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\media\\Video2.mp4",
+      "SourceId": "Website.CaesarGaming",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\",
+      "BasePath": "_content/Website.CaesarGaming",
+      "RelativePath": "media/Video2.mp4",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\media\\Video2.mp4"
     },
     {
       "Identity": "C:\\Users\\Jsn\\source\\repos\\Projects\\Website.CaesarGaming\\Website.CaesarGaming\\wwwroot\\media\\Videos\\Video1.mp4",
