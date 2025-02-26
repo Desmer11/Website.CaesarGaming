@@ -361,3 +361,19 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+.vs/Website.CaesarGaming/v17/.suo
+Website.CaesarGaming/bin/Debug/net7.0/Website.CaesarGaming.dll
+Website.CaesarGaming/bin/Debug/net7.0/Website.CaesarGaming.pdb
+Website.CaesarGaming/bin/Debug/net7.0/Website.CaesarGaming.staticwebassets.runtime.json
+Website.CaesarGaming/obj/Debug/net7.0/project.razor.vs.json
+Website.CaesarGaming/obj/Debug/net7.0/ref/Website.CaesarGaming.dll
+Website.CaesarGaming/obj/Debug/net7.0/refint/Website.CaesarGaming.dll
+Website.CaesarGaming/obj/Debug/net7.0/staticwebassets.build.json
+Website.CaesarGaming/obj/Debug/net7.0/staticwebassets.development.json
+Website.CaesarGaming/obj/Debug/net7.0/staticwebassets.pack.json
+Website.CaesarGaming/obj/Debug/net7.0/staticwebassets/msbuild.Website.CaesarGaming.Microsoft.AspNetCore.StaticWebAssets.props
+Website.CaesarGaming/obj/Debug/net7.0/Website.CaesarGaming.dll
+Website.CaesarGaming/obj/Debug/net7.0/Website.CaesarGaming.fsproj.CoreCompileInputs.cache
+Website.CaesarGaming/obj/Debug/net7.0/Website.CaesarGaming.pdb
+Website.CaesarGaming/Views/Home/Index.cshtml
+Website.CaesarGaming/Website.CaesarGaming.fsproj
